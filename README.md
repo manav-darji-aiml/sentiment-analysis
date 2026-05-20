@@ -1,8 +1,3 @@
-Here's a `README.md` file based on your uploaded Jupyter Notebook titled **"Sentiment Analysis\_complete.ipynb"**. This markdown is GitHub-ready and covers the major sections a good README should have.
-
----
-
-```MARKDOWN
 # 📊 Sentiment Analysis using Machine Learning
 
 This repository contains a **Sentiment Analysis** project implemented in Python using various NLP and machine learning techniques. The goal is to classify textual data into sentiments such as **positive**, **negative**, or **neutral**.
@@ -65,10 +60,10 @@ Sentiment analysis is a key Natural Language Processing (NLP) task that helps in
 ## ⚙️ How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Manavdarji2/sentiment-analysis.git
-   cd sentiment-analysis
-````
+    ```bash
+      git clone https://github.com/Manavdarji2/sentiment-analysis.git
+      cd sentiment-analysis
+   ````
 
 2. Create and activate a virtual environment (optional):
 
@@ -100,17 +95,7 @@ Sentiment analysis is a key Natural Language Processing (NLP) task that helps in
 
 ---
 
-## 🧩 Future Improvements
-
-* Use deep learning (e.g., LSTM, BERT) for better performance.
-* Expand dataset to include more real-world data.
-* Deploy the model via a web app (e.g., Flask or Streamlit).
-
----
-
 ## 📌 Author
 
 * **Your Name** – [@Manavdarji2](https://github.com/Manavdarji2)
-
----
 
