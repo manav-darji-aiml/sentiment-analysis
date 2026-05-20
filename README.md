@@ -61,7 +61,7 @@ Sentiment analysis is a key Natural Language Processing (NLP) task that helps in
 
 1. Clone the repository:
     ```bash
-      git clone https://github.com/Manavdarji2/sentiment-analysis.git
+      git clone https://github.com/manav-darji-aiml/sentiment-analysis.git
       cd sentiment-analysis
    ````
 
@@ -97,5 +97,5 @@ Sentiment analysis is a key Natural Language Processing (NLP) task that helps in
 
 ## 📌 Author
 
-* **Your Name** – [@Manavdarji2](https://github.com/Manavdarji2)
+* **Your Name** – [@Manavdarji2](https://github.com/manav-darji-aiml)
 
